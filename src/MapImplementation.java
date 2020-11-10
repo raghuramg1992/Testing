@@ -55,6 +55,7 @@ public class MapImplementation
 			System.out.println(ent);
 		}
 		Printer.print();
+		System.out.println();
 	}
 
 
