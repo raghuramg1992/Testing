@@ -45,7 +45,6 @@ public class MapImplementation
 			e.printStackTrace();
 			System.out.println("File is not available");
 			
-			
 		}
 		
 		Set<Map.Entry<String, String>> entries=hm.entrySet();
